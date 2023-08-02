@@ -77,12 +77,12 @@
     "src": "guest/index.html"
   },
   "index.css": {
-    "file": "assets/index-81a3d879.css",
+    "file": "assets/index-a863b148.css",
     "src": "index.css"
   },
   "index.html": {
     "css": [
-      "assets/index-81a3d879.css"
+      "assets/index-a863b148.css"
     ],
     "file": "entry-main.js",
     "imports": [
