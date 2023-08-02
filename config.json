@@ -1,6 +1,8 @@
 {
   "API_URL": "https://3fc3-2001-4453-6db-7300-1407-fcc6-c145-582d.ngrok-free.app",
   "tenant": {
-    "tenantId": "store1"
+    "id": "store1",
+    "name": "The Store 1",
+    "description": "The Store 1 Description"
   }
 }
