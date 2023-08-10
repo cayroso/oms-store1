@@ -1,5 +1,5 @@
 {
-  "__plugin-vue_export-helper-6da9ef04.js": {
+  "_chunk-_plugin-vue_export-helper.js": {
     "assets": [
       "assets/fa-solid-900-7152a693.woff2",
       "assets/fa-solid-900-67a65763.ttf",
@@ -9,23 +9,23 @@
     "css": [
       "assets/_plugin-vue_export-helper-a0658084.css"
     ],
-    "file": "assets/_plugin-vue_export-helper-6da9ef04.js"
+    "file": "chunk-_plugin-vue_export-helper.js"
+  },
+  "_chunk-useSearchPaginated.js": {
+    "file": "chunk-useSearchPaginated.js",
+    "imports": [
+      "_chunk-_plugin-vue_export-helper.js"
+    ]
+  },
+  "_chunk-vue.js": {
+    "assets": [
+      "assets/vue-5532db34.svg"
+    ],
+    "file": "chunk-vue.js"
   },
   "_plugin-vue_export-helper.css": {
     "file": "assets/_plugin-vue_export-helper-a0658084.css",
     "src": "_plugin-vue_export-helper.css"
-  },
-  "_useSearchPaginated-488048bf.js": {
-    "file": "assets/useSearchPaginated-488048bf.js",
-    "imports": [
-      "__plugin-vue_export-helper-6da9ef04.js"
-    ]
-  },
-  "_vue-d157338a.js": {
-    "assets": [
-      "assets/vue-5532db34.svg"
-    ],
-    "file": "assets/vue-d157338a.js"
   },
   "account/index.css": {
     "file": "assets/index-9967ba62.css",
@@ -37,8 +37,8 @@
     ],
     "file": "entry-account.js",
     "imports": [
-      "__plugin-vue_export-helper-6da9ef04.js",
-      "_vue-d157338a.js"
+      "_chunk-_plugin-vue_export-helper.js",
+      "_chunk-vue.js"
     ],
     "isEntry": true,
     "src": "account/index.html"
@@ -53,9 +53,9 @@
     ],
     "file": "entry-admin.js",
     "imports": [
-      "__plugin-vue_export-helper-6da9ef04.js",
-      "_vue-d157338a.js",
-      "_useSearchPaginated-488048bf.js"
+      "_chunk-_plugin-vue_export-helper.js",
+      "_chunk-vue.js",
+      "_chunk-useSearchPaginated.js"
     ],
     "isEntry": true,
     "src": "admin/index.html"
@@ -70,24 +70,24 @@
     ],
     "file": "entry-guest.js",
     "imports": [
-      "__plugin-vue_export-helper-6da9ef04.js",
-      "_vue-d157338a.js"
+      "_chunk-_plugin-vue_export-helper.js",
+      "_chunk-vue.js"
     ],
     "isEntry": true,
     "src": "guest/index.html"
   },
   "index.css": {
-    "file": "assets/index-a863b148.css",
+    "file": "assets/index-a0e93614.css",
     "src": "index.css"
   },
   "index.html": {
     "css": [
-      "assets/index-a863b148.css"
+      "assets/index-a0e93614.css"
     ],
     "file": "entry-main.js",
     "imports": [
-      "__plugin-vue_export-helper-6da9ef04.js",
-      "_useSearchPaginated-488048bf.js"
+      "_chunk-_plugin-vue_export-helper.js",
+      "_chunk-useSearchPaginated.js"
     ],
     "isEntry": true,
     "src": "index.html"
