@@ -47,8 +47,8 @@
           "name": null,
           "description": null,
           "price": 300,
-          "salePrice": 0,
-          "finalPrice": 300,
+          "salePrice": 20,
+          "finalPrice": 20,
           "quantity": 0,
           "attributeGroups": [
           ],
