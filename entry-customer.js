@@ -1,0 +1,1 @@
+import{_ as t,x as e,W as c}from"./assets/_plugin-vue_export-helper-0258d07a.js";const s={};function r(n,f){return" Customer Page "+e(n.$config.tenant)}const a=t(s,[["render",r]]),o=c(a),p="/";fetch(`${p}config.json`).then(n=>n.json()).then(n=>{o.config.globalProperties.$config=n,o.mount("#app")});

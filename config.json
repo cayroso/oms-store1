@@ -1,8 +1,9 @@
 {
-  "API_URL": "https://d9a4-180-195-205-178.ngrok-free.app",
+  "API_URL": "https://localhost:7086",
+  "appName": "My Store",
   "tenant": {
-    "id": "administrator",
-    "name": "The Administrator",
-    "description": "The Administrator Description"
+    "id": "store1",
+    "name": "The Store 1",
+    "description": "The Store 1 Description"
   }
 }

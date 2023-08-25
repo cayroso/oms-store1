@@ -1,0 +1,808 @@
+{
+  "contact": {
+    "email": "admin@store.come",
+    "phone": "04312345",
+    "mobile": "0919234567"
+  },
+  "categories": [
+    {
+      "categoryId": "category1",
+      "name": "Home Care Supplies",
+      "description": "Category 1 Description"
+    },
+    {
+      "categoryId": "category2",
+      "name": "Tools & Home Improvements",
+      "description": "Category 2 Description"
+    },
+    {
+      "categoryId": "category3",
+      "name": "Gardening",
+      "description": "Category 3 Description"
+    },
+    {
+      "categoryId": "category4",
+      "name": "Mortorcyle Spare Parts",
+      "description": "Category 4 Description"
+    }
+  ],
+  "products": [
+    {
+      "productId": "0dfde5c2-02bf-44a5-97b7-928e7413193f",
+      "categoryId": "category1",
+      "name": "Product 6",
+      "description": "Product 6 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 1
+        }
+      ],
+      "skus": [
+        {
+          "skuId": "77836df6-56c5-425f-94a0-45a09780f6d3",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 50,
+          "salePrice": 20,
+          "finalPrice": 20,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "03d4c579-517a-4b38-81d8-eccb5b18ff54",
+                  "value": "Medium"
+                },
+                {
+                  "skuAttributeId": "47088730-dc2c-4400-bce2-9d9f3e38e5f3",
+                  "value": "Large"
+                },
+                {
+                  "skuAttributeId": "b159d8bc-2e4c-4de0-8e6f-ceccb2c07bd4",
+                  "value": "Extra Large"
+                },
+                {
+                  "skuAttributeId": "e4927792-370c-46b4-9b8e-8496adfdc448",
+                  "value": "Small"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/d5265cf174edec7765ee3bdbf23ee5d6",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "skuId": "6a9ea459-ffce-44d7-8a4d-816f7f9db655",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "02482934-0d78-4903-a10b-c7fadc6bd356",
+                  "value": "Medium"
+                },
+                {
+                  "skuAttributeId": "1a9e895e-f485-4827-bbda-af8dab207767",
+                  "value": "Small"
+                },
+                {
+                  "skuAttributeId": "8430f7b0-689a-4e43-b7de-4567395affa9",
+                  "value": "Large"
+                }
+              ]
+            },
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "6f0a9f36-ae8b-4f62-a0bf-6e8af87aea50",
+                  "value": "Yellow"
+                },
+                {
+                  "skuAttributeId": "86a387cb-6f2b-40a5-b72c-e57e6d710bd7",
+                  "value": "Blue"
+                },
+                {
+                  "skuAttributeId": "9222d544-b50d-49be-8356-f76307b1abfa",
+                  "value": "White"
+                },
+                {
+                  "skuAttributeId": "a74ff836-f0af-4988-9156-6c5063f94117",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "b81f44cc-09d1-4682-b5b4-1efbc95b7244",
+                  "value": "Pink"
+                },
+                {
+                  "skuAttributeId": "c9b259a1-4ff7-4cb9-b453-eca19cc29225",
+                  "value": "Black"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "d292a426-e51e-4d59-b3ba-91408f353665",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "skuId": "0798ff94-24e7-4c83-b9af-3b7eb476c2be",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 100,
+          "salePrice": 90,
+          "finalPrice": 90,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "40e70c75-114d-4d70-85d6-f875e14dde8e",
+                  "value": "Blue"
+                },
+                {
+                  "skuAttributeId": "42f2c950-4107-499f-9f00-b4c8ac6fce99",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "9062257a-1089-46f3-8401-3f8e5ebaf389",
+                  "value": "Green"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/d5265cf174edec7765ee3bdbf23ee5d6",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "7ba62a09-bf5b-4cbd-b096-5cd77d499994",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 120,
+          "salePrice": 0,
+          "finalPrice": 120,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": []
+        }
+      ]
+
+    },
+    {
+      "productId": "228c5acf-bed9-4b35-89ae-a0a3de0070b2",
+      "categoryId": "category1",
+      "name": "Product 17",
+      "description": "Product 17 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 1
+        }
+      ],
+      "skus": [
+        {
+          "skuId": "52495159-4724-4675-8488-3d84555ccb64",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 50,
+          "salePrice": 20,
+          "finalPrice": 20,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "730ca0da-b80a-41b0-b5ff-cc56bcc6d2f9",
+                  "value": "Medium"
+                },
+                {
+                  "skuAttributeId": "c12b1ddf-77f5-47a6-81f7-7c43860d9f29",
+                  "value": "Extra Large"
+                },
+                {
+                  "skuAttributeId": "eb3eed4a-db99-4a35-8275-50b96418214e",
+                  "value": "Large"
+                },
+                {
+                  "skuAttributeId": "f2a1f255-f299-4a11-b04f-7ce1716536fa",
+                  "value": "Small"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "skuId": "94175eb8-6931-4b60-b025-59fa1073abf0",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "248c70ae-4929-451f-b9db-c0726801f840",
+                  "value": "Blue"
+                },
+                {
+                  "skuAttributeId": "60660673-0945-4c97-ad7d-a56e67f77804",
+                  "value": "Black"
+                },
+                {
+                  "skuAttributeId": "803b677d-5667-4c3a-80b2-1d998ca43fac",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "b27cd979-bab0-4df1-8932-c13e5fb1847b",
+                  "value": "Yellow"
+                },
+                {
+                  "skuAttributeId": "d10806e1-d470-4e3a-95bf-d9bb1e874a5f",
+                  "value": "White"
+                },
+                {
+                  "skuAttributeId": "d8cc9699-b0e4-4ad9-9d45-1aacae4b3cdb",
+                  "value": "Pink"
+                }
+              ]
+            },
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "c48acd3c-ebcc-488e-b0a5-89406585528f",
+                  "value": "Small"
+                },
+                {
+                  "skuAttributeId": "ee11ca23-d66e-4ccc-9f4e-8b2d0f0eefb4",
+                  "value": "Large"
+                },
+                {
+                  "skuAttributeId": "f38aa2fd-7c88-4fd5-a1e5-79f8aa75244d",
+                  "value": "Medium"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/06e57fc4bb386a38c4cfe310b9321b93",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "d8d7d4e3-7ec2-4427-9cc8-1e3667304f8b",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "skuId": "084739b5-349e-463a-b947-365ce7a2929a",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 100,
+          "salePrice": 90,
+          "finalPrice": 90,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "18f8e563-910a-4f85-b1dd-2be6e110b009",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "1e85f3f8-1d56-4d98-b506-d953fc7e8ebc",
+                  "value": "Blue"
+                },
+                {
+                  "skuAttributeId": "ebbcbd8d-1847-4cfc-aadc-81eaa93d55a3",
+                  "value": "Green"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/06e57fc4bb386a38c4cfe310b9321b93",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "4f8cdc73-8969-41ec-a9ab-cb0f71b6d35b",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 120,
+          "salePrice": 0,
+          "finalPrice": 120,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": []
+        }
+      ]
+    },
+    {
+      "productId": "296df90c-5221-4d73-a86a-6b87455a1edf",
+      "categoryId": "category2",
+      "name": "Product 15",
+      "description": "Product 15 description",
+      "minPrice": 20,
+      "maxPrice": 20,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 1
+        }
+      ],
+      "skus": [
+        {
+          "skuId": "a24c29fb-b65a-44de-8537-7134af6e62eb",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 50,
+          "salePrice": 20,
+          "finalPrice": 20,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "order": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "productId": "3ec71a90-e5f9-4dd1-9806-8abf566ecd54",
+      "name": "Product 16",
+      "categoryId": "category2",
+      "description": "Product 16 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "skus": [
+        {
+          "skuId": "2206a74d-706d-4a1f-8180-562651a2bb65",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 50,
+          "salePrice": 20,
+          "finalPrice": 20,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "2b3e9bdb-a8e5-4742-89aa-87a23b52aab9",
+                  "value": "Medium"
+                },
+                {
+                  "skuAttributeId": "7f10b83e-42ca-4647-a4e9-ab5de11907ae",
+                  "value": "Large"
+                },
+                {
+                  "skuAttributeId": "cc17c6b1-8e41-47a8-b40d-9d3bc153df66",
+                  "value": "Small"
+                },
+                {
+                  "skuAttributeId": "d60723da-86b9-41b0-9c0a-bc41c73069ab",
+                  "value": "Extra Large"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+              "order": 1
+            }
+          ]
+        },
+        {
+          "skuId": "10658f4d-f927-4b98-90c8-b121a21a86a0",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Size",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "4be46657-5234-491d-8146-59c51f4d15ed",
+                  "value": "Small"
+                },
+                {
+                  "skuAttributeId": "5bcf97e1-c150-47a0-8e75-4887ae3fd2a7",
+                  "value": "Medium"
+                },
+                {
+                  "skuAttributeId": "dd6f75f3-b1cc-4e6c-9bd2-489eb544ee60",
+                  "value": "Large"
+                }
+              ]
+            },
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "54c20e9b-c8a7-4abe-9f28-21284628e4db",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "561e50fb-cd6f-438e-b237-ad80435d3fd1",
+                  "value": "White"
+                },
+                {
+                  "skuAttributeId": "d95cc578-0501-49be-bcf5-aa49386f98fd",
+                  "value": "Pink"
+                },
+                {
+                  "skuAttributeId": "d9b77f02-91d2-4ada-b13a-aadd180e60ba",
+                  "value": "Black"
+                },
+                {
+                  "skuAttributeId": "e1f3cc52-f40c-4e00-aab4-c6a26767edc7",
+                  "value": "Yellow"
+                },
+                {
+                  "skuAttributeId": "e8a47a09-fff3-4199-9dea-63cbaac539f6",
+                  "value": "Blue"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "4351397f-b0e7-4462-8491-aa247ce20991",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 60,
+          "salePrice": 30,
+          "finalPrice": 30,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "order": 0
+            }
+          ]
+        },
+        {
+          "skuId": "4f885962-93fe-4f97-babc-74e194151202",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 100,
+          "salePrice": 90,
+          "finalPrice": 90,
+          "quantity": 0,
+          "attributeGroups": [
+            {
+              "name": "Color",
+              "selectedAttributeId": "",
+              "attributes": [
+                {
+                  "skuAttributeId": "2d56bccd-31b8-4d4b-8157-ee0f224a7350",
+                  "value": "Red"
+                },
+                {
+                  "skuAttributeId": "a327d886-a453-46ef-a6ae-2ad08ed4d081",
+                  "value": "Green"
+                },
+                {
+                  "skuAttributeId": "b44135f6-5a7c-4932-9ea0-d4afff4903b8",
+                  "value": "Blue"
+                }
+              ]
+            }
+          ],
+          "digitalMedia": [
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 0
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/a0d7d10e1ea2b588f3ebb61dd0094a92",
+              "order": 1
+            },
+            {
+              "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "skuId": "080b2794-e33d-48e0-935d-6548080044dc",
+          "productId": null,
+          "name": null,
+          "description": null,
+          "price": 120,
+          "salePrice": 0,
+          "finalPrice": 120,
+          "quantity": 0,
+          "attributeGroups": [],
+          "digitalMedia": []
+        }
+      ],
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/d5265cf174edec7765ee3bdbf23ee5d6",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "424fd196-7d5f-413d-9ac1-006155ff478b",
+      "name": "Product 9",
+      "description": "Product 9 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "4a251a87-05a8-4770-b5e5-29b8048e2f6d",
+      "name": "Product 1",
+      "description": "Product 1 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "4c2db836-9f8a-453f-8efc-8c9c0dc4933c",
+      "name": "Product 3",
+      "description": "Product 3 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "56f87c7f-9c1a-48a6-ab51-729d04f7bf94",
+      "name": "Product 7",
+      "description": "Product 7 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/a0d7d10e1ea2b588f3ebb61dd0094a92",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/d5265cf174edec7765ee3bdbf23ee5d6",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "7e0318bc-0fe1-4841-a195-e3366855a546",
+      "name": "Product 8",
+      "description": "Product 8 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/a0d7d10e1ea2b588f3ebb61dd0094a92",
+          "order": 1
+        }
+      ]
+    },
+    {
+      "productId": "9f83a0ca-7b52-4662-b33c-9bfdb8d9d427",
+      "name": "Product 14",
+      "description": "Product 14 description",
+      "minPrice": 20,
+      "maxPrice": 120,
+      "digitalMedia": [
+        {
+          "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+          "order": 0
+        },
+        {
+          "url": "https://down-ph.img.susercontent.com/file/50f239aed1a49ca2c5c50fff07fa6f41",
+          "order": 1
+        }
+      ]
+    }
+  ]
+}
