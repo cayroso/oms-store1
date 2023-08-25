@@ -7,22 +7,22 @@
   "categories": [
     {
       "categoryId": "category1",
-      "name": "Acne",
+      "name": "Pretium",
       "description": "Category 1 Description"
     },
     {
       "categoryId": "category2",
-      "name": "Moisturizer",
+      "name": "Praesent",
       "description": "Category 2 Description"
     },
     {
       "categoryId": "category3",
-      "name": "Face",
+      "name": "Vestibulum",
       "description": "Category 3 Description"
     },
     {
       "categoryId": "category4",
-      "name": "Foot Care",
+      "name": "Elementum",
       "description": "Category 4 Description"
     }
   ],
@@ -30,13 +30,13 @@
     {
       "productId": "product1",
       "categoryId": "category1",
-      "name": "Authentic Brilliant Rejuv Set",
-      "description": "Get GLOWING SKIN, with Brilliant Skin! ",
+      "name": "Sem integer vitae justo",
+      "description": "Risus pretium quam vulputate dignissim suspendisse in est ante in. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Velit sed ullamcorper morbi tincidunt ornare massa. Elementum nisi quis eleifend quam adipiscing vitae. Non sodales neque sodales ut etiam sit. Ultrices in iaculis nunc sed augue. Ullamcorper sit amet risus nullam eget felis",
       "minPrice": 300,
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -54,23 +54,23 @@
           ],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/bede6f547187b2f1c1168cf09c7affba",
+              "url": "https://placehold.co/300x100?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/fa2ccae5685443d6829ac8c692b50d8a",
+              "url": "https://placehold.co/300x150?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/ea291b718e81f37261160fdaf104d01f",
+              "url": "https://placehold.co/300x200?text=",
               "order": 2
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/4f144593126b5ee60e7e84a7cf5c8e93",
+              "url": "https://placehold.co/300x250?text=",
               "order": 3
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/06e57fc4bb386a38c4cfe310b9321b93",
+              "url": "https://placehold.co/300x300?text=",
               "order": 4
             }
           ]
@@ -81,13 +81,13 @@
     {
       "productId": "product2",
       "categoryId": "category1",
-      "name": "Kojic Acid Soap 135g",
-      "description": "Anti- acne",
+      "name": "Mi eget mauris pharetra",
+      "description": "Rhoncus urna neque viverra justo nec. Adipiscing bibendum est ultricies integer. Etiam dignissim diam quis enim lobortis. Semper feugiat nibh sed pulvinar proin gravida hendrerit.",
       "minPrice": 80,
       "maxPrice": 80,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/096688eed8037e3e0ccae5cf98ecf921",
+          "url": "https://placehold.co/200x300?text=",
           "order": 0
         }
       ],
@@ -104,11 +104,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/096688eed8037e3e0ccae5cf98ecf921",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/d26d4f554ff390a35a3a57ce67e27811",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             }
           ]
@@ -118,13 +118,13 @@
     {
       "productId": "product3",
       "categoryId": "category1",
-      "name": "Perfect Formula Filter Free",
-      "description": "Skincare with a fast and visible result?",
+      "name": "Congue mauris rhoncus",
+      "description": "Interdum varius sit amet mattis vulputate enim nulla. Ornare arcu dui vivamus arcu felis bibendum.",
       "minPrice": 300,
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/26a887864351a142a075a5c9ccc649eb",
+          "url": "https://placehold.co/400x300?text=",
           "order": 0
         }
       ],
@@ -141,27 +141,27 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/26a887864351a142a075a5c9ccc649eb",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/c1d72617630a279772520b1cc6a984eb",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/784c2d921f3a7c7a72943bf168c9a3f0",
+              "url": "https://placehold.co/300x300?text=",
               "order": 2
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/134223a3d81cf6a1c1b55ef37c7c4eb2",
+              "url": "https://placehold.co/300x300?text=",
               "order": 3
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/1f6bf155b847cdee364a7d175363179b",
+              "url": "https://placehold.co/300x300?text=",
               "order": 4
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/397dfee71b16975c5d388adffa1174ac",
+              "url": "https://placehold.co/300x300?text=",
               "order": 5
             }
           ]
@@ -171,13 +171,13 @@
     {
       "productId": "product4",
       "categoryId": "category1",
-      "name": "Brilliant Skin Essentials Tomato Set",
-      "description": "Sensitive ba ang skin mo? eto ang para sayo beshy! 😉",
+      "name": "Sed elementum tempus",
+      "description": "Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor. Sit amet mauris commodo quis imperdiet. ",
       "minPrice": 300,
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/a0d7d10e1ea2b588f3ebb61dd0094a92",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -194,19 +194,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/a0d7d10e1ea2b588f3ebb61dd0094a92",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/de06b73c2d568d65ae4a7fd7d19925e7",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/37614b369e5e5ad1fc1bcac25b810fee",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/d5265cf174edec7765ee3bdbf23ee5d6",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             }
           ]
@@ -217,13 +217,13 @@
     {
       "productId": "product5",
       "categoryId": "category1",
-      "name": "Brilliant Skin Essentials Whitening Set",
-      "description": "Experience intensely whiter and brighter face with our New and Improved Whitening Facial Set! 💕",
+      "name": "Vel fringilla est ullamcorper",
+      "description": " Libero justo laoreet sit amet cursus sit amet dictum. Ullamcorper malesuada proin libero nunc consequat interdum varius. Elementum curabitur vitae nunc sed velit.",
       "minPrice": 350,
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -240,11 +240,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/1e9fcd6b169df9cccd0d973739393d32",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/04a4bee7a8edda76c97cf5b74888d614",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             }
           ]
@@ -254,13 +254,13 @@
     {
       "productId": "product6",
       "categoryId": "category1",
-      "name": "Advanced Moisture Booster Gel-Cream 50g",
-      "description": "Boost your skin’s hydration with our NEW Advanced Moisture Booster Gel-Cream. ",
+      "name": "Cursus risus at ultrices",
+      "description": "Eget egestas purus viverra accumsan in nisl nisi scelerisque eu. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Luctus venenatis lectus magna fringilla urna.",
       "minPrice": 350,
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -277,7 +277,7 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/7b19c54e6f4741e6b3c81c34e04d2c04",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             }
           ]
@@ -288,13 +288,13 @@
     {
       "productId": "product7",
       "categoryId": "category2",
-      "name": "Vitamin E Moisturizing and Firming Cream",
-      "description": "Our Vitamin E Moisturizing & Firming Cream is made with a combination of different moisturizing agents that effectively help give long term protection for sensitive and dry skin. ",
+      "name": "Est sit amet facilisis magna",
+      "description": "Ullamcorper malesuada proin libero nunc consequat interdum varius. Elementum curabitur vitae nunc sed velit. Donec adipiscing tristique risus nec feugiat in fermentum posuere urna.",
       "minPrice": 320,
       "maxPrice": 320,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/aa2c27e3936e08f6462151d76d08097c",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -311,19 +311,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/aa2c27e3936e08f6462151d76d08097c",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/ce954012a323f102e700cc54f00d0524",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/6d7e1770c3cd30161aab6fb1a2700574",
+              "url": "https://placehold.co/300x300?text=",
               "order": 2
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/af52e86a8b70d96ebed7d07458c2ed46",
+              "url": "https://placehold.co/300x300?text=",
               "order": 3
             }
           ]
@@ -333,13 +333,13 @@
     {
       "productId": "product8",
       "categoryId": "category2",
-      "name": "Brilliant Skin Essentials Hydrating Kit",
-      "description": "💎 BRILLIANT ADVANCED MOISTURIZING AND HYDRATING KIT 💎",
+      "name": "In nulla posuere",
+      "description": "Non tellus orci ac auctor augue mauris. Tempor orci dapibus ultrices in iaculis nunc sed augue.",
       "minPrice": 350,
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/30883c31568525e4ec6f96648ed1b204",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -356,19 +356,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/30883c31568525e4ec6f96648ed1b204",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/d0e2d252dc70204ed3c49d5350e70a60",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/bb887bf4a8dbbbf21de1de2801ae6732",
+              "url": "https://placehold.co/300x300?text=",
               "order": 2
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/175b4e2669826cad50c603cf10b7e540",
+              "url": "https://placehold.co/300x300?text=",
               "order": 3
             }
           ]
@@ -378,13 +378,13 @@
     {
       "productId": "product9",
       "categoryId": "category2",
-      "name": "CEO's Quad Glow Kit - Brilliant",
-      "description": "It is an on-the-go daily skincare routine (for all skin types) that contains a full regimen of what your skin needs most. You can be sure that this lineup can help you get the glowing complexion you’ve always wanted. ",
+      "name": "Facilisis volutpat est",
+      "description": "Posuere morbi leo urna molestie at elementum eu facilisis. Id volutpat lacus laoreet non curabitur gravida arcu ac.",
       "minPrice": 750,
       "maxPrice": 750,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/ca1201e697c7d52edb7fc6319a988a19",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -401,23 +401,23 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/ca1201e697c7d52edb7fc6319a988a19",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/e179d3748dfc2921b3eefcd2544c48c3",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/35279737900ca0f3ad700ea747b14c47",
+              "url": "https://placehold.co/300x300?text=",
               "order": 2
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/84aaff55e72b64d5510d0a4e3c37c8b1",
+              "url": "https://placehold.co/300x300?text=",
               "order": 3
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/a26bc86d3fdfda838b54109922a4ae93",
+              "url": "https://placehold.co/300x300?text=",
               "order": 4
             }
           ]
@@ -428,13 +428,13 @@
     {
       "productId": "product10",
       "categoryId": "category3",
-      "name": "Sunscreen Gel Cream SPF30 50g (Pink)",
-      "description": "Apply your Sunscreen Gel-Cream that has SPF 30 to give your skin the broad spectrum protection it needs as harmful UV rays can still penetrate through the clouds. ",
+      "name": "Tortor pretium viverra",
+      "description": "Posuere morbi leo urna molestie at elementum eu facilisis. Id volutpat lacus laoreet non curabitur gravida arcu ac.",
       "minPrice": 350,
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/aaa97e519b25812a3b3c25b8eaeccdb5",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -451,7 +451,7 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/aaa97e519b25812a3b3c25b8eaeccdb5",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             }
           ]
@@ -462,13 +462,13 @@
     {
       "productId": "product11",
       "categoryId": "category4",
-      "name": "Heel and Toe Footmask (Lavender or Milk)",
-      "description": "It contains Lactic Acid, a well-known moisturizing complex and considered to be an excellent moisturizer. It also contains Wild Mint that acts as a natural antiseptic agent as it aids in treating skin problems and healing wounds. 👍",
+      "name": "Nunc vel risus commodo viverra",
+      "description": "Mattis ullamcorper velit sed ullamcorper morbi. Dui nunc mattis enim ut tellus.",
       "minPrice": 70,
       "maxPrice": 70,
       "digitalMedia": [
         {
-          "url": "https://down-ph.img.susercontent.com/file/dd14558d6b1e9e3f3690322e4d6e0a47",
+          "url": "https://placehold.co/300x300?text=",
           "order": 0
         }
       ],
@@ -485,11 +485,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://down-ph.img.susercontent.com/file/dd14558d6b1e9e3f3690322e4d6e0a47",
+              "url": "https://placehold.co/300x300?text=",
               "order": 0
             },
             {
-              "url": "https://down-ph.img.susercontent.com/file/316cae20647c117424685da052819294",
+              "url": "https://placehold.co/300x300?text=",
               "order": 1
             }
           ]
