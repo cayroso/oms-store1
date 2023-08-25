@@ -36,7 +36,7 @@
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product1",
           "order": 0
         }
       ],
@@ -54,23 +54,23 @@
           ],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x100?text=",
+              "url": "https://placehold.co/300x100?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x150?text=",
+              "url": "https://placehold.co/300x150?text=image2",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x200?text=",
+              "url": "https://placehold.co/300x200?text=image3",
               "order": 2
             },
             {
-              "url": "https://placehold.co/300x250?text=",
+              "url": "https://placehold.co/300x250?text=image4",
               "order": 3
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image5",
               "order": 4
             }
           ]
@@ -87,7 +87,7 @@
       "maxPrice": 80,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/200x300?text=",
+          "url": "https://placehold.co/200x300?text=product2",
           "order": 0
         }
       ],
@@ -104,11 +104,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             }
           ]
@@ -124,7 +124,7 @@
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/400x300?text=",
+          "url": "https://placehold.co/400x300?text=product3",
           "order": 0
         }
       ],
@@ -141,27 +141,27 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image3",
               "order": 2
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image4",
               "order": 3
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image5",
               "order": 4
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image6",
               "order": 5
             }
           ]
@@ -177,7 +177,7 @@
       "maxPrice": 300,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product4",
           "order": 0
         }
       ],
@@ -194,19 +194,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image3",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image4",
               "order": 1
             }
           ]
@@ -223,7 +223,7 @@
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product5",
           "order": 0
         }
       ],
@@ -240,11 +240,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             }
           ]
@@ -260,7 +260,7 @@
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product6",
           "order": 0
         }
       ],
@@ -277,7 +277,7 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             }
           ]
@@ -294,7 +294,7 @@
       "maxPrice": 320,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product7",
           "order": 0
         }
       ],
@@ -311,19 +311,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image3",
               "order": 2
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image4",
               "order": 3
             }
           ]
@@ -339,7 +339,7 @@
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product8",
           "order": 0
         }
       ],
@@ -356,19 +356,19 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image3",
               "order": 2
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image4",
               "order": 3
             }
           ]
@@ -384,7 +384,7 @@
       "maxPrice": 750,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product9",
           "order": 0
         }
       ],
@@ -405,19 +405,19 @@
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 1
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 2
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image3",
               "order": 3
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image4",
               "order": 4
             }
           ]
@@ -434,7 +434,7 @@
       "maxPrice": 350,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product10",
           "order": 0
         }
       ],
@@ -451,7 +451,7 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             }
           ]
@@ -468,7 +468,7 @@
       "maxPrice": 70,
       "digitalMedia": [
         {
-          "url": "https://placehold.co/300x300?text=",
+          "url": "https://placehold.co/300x300?text=product11",
           "order": 0
         }
       ],
@@ -485,11 +485,11 @@
           "attributeGroups": [],
           "digitalMedia": [
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image1",
               "order": 0
             },
             {
-              "url": "https://placehold.co/300x300?text=",
+              "url": "https://placehold.co/300x300?text=image2",
               "order": 1
             }
           ]
